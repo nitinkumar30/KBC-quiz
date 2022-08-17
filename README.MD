@@ -38,9 +38,11 @@
 
 Just change the values of list **questions** from following code snippet:
 
-``questions = ["Which is the largest country in the world?",
-             "How many days are there in a leap year?",
-             "Which one of these four birds has the longest beak and feet?", ..``  
+``
+questions = ["Which is the largest country in the world?",  
+             "How many days are there in a leap year?",  
+             "Which one of these four birds has the longest beak and feet?", ..
+``  
 
 on line 14 of [kbc.py](kbc.py)
 
